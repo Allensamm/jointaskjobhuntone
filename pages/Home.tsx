@@ -15,26 +15,36 @@ const Home: React.FC<HomeProps> = ({ onBook = () => {} }) => {
       {/* Hero Section */}
       <section className="relative pt-20 pb-32 overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-          <div className="max-w-3xl">
-            <span className="inline-block px-4 py-1.5 mb-6 text-xs font-semibold tracking-widest uppercase bg-slate-100 text-slate-600 rounded-full">
-              Independent Headhunters • Talent Specialists • Top 1%
-            </span>
-            <h1 className="text-5xl md:text-7xl font-bold text-slate-900 leading-[1.1] mb-8">
-              Precision Talent Acquisition for the <span className="text-slate-500">Global Economy.</span>
-            </h1>
-            <p className="text-xl text-slate-600 mb-10 leading-relaxed max-w-2xl">
-              Jointask Independent is a premier US-based headhunting firm dedicated to sourcing high-impact leadership and specialists for startups, scale-ups, and established enterprises.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4">
-              <button 
-                onClick={onBook}
-                className="bg-slate-900 text-white px-8 py-4 rounded-sm font-medium hover:bg-slate-800 transition-all flex items-center justify-center"
-              >
-                Book a Talent Strategy Call <ArrowRight className="ml-2" size={18} />
-              </button>
-              <Link href="/services" className="border border-slate-200 text-slate-700 px-8 py-4 rounded-sm font-medium hover:bg-slate-50 transition-all flex items-center justify-center">
-                Our Services
-              </Link>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div className="max-w-3xl">
+              <span className="inline-block px-4 py-1.5 mb-6 text-xs font-semibold tracking-widest uppercase bg-slate-100 text-slate-600 rounded-full">
+                Independent Headhunters • Talent Specialists • Top 1%
+              </span>
+              <h1 className="text-5xl md:text-7xl font-bold text-slate-900 leading-[1.1] mb-8">
+                Precision Talent Acquisition for the <span className="text-slate-500">Global Economy.</span>
+              </h1>
+              <p className="text-xl text-slate-600 mb-10 leading-relaxed max-w-2xl">
+                Jointask Independent is a premier US-based headhunting firm dedicated to sourcing high-impact leadership and specialists for startups, scale-ups, and established enterprises.
+              </p>
+              <div className="flex flex-col sm:flex-row gap-4">
+                <button 
+                  onClick={onBook}
+                  className="bg-slate-900 text-white px-8 py-4 rounded-sm font-medium hover:bg-slate-800 transition-all flex items-center justify-center"
+                >
+                  Book a Talent Strategy Call <ArrowRight className="ml-2" size={18} />
+                </button>
+                <Link href="/services" className="border border-slate-200 text-slate-700 px-8 py-4 rounded-sm font-medium hover:bg-slate-50 transition-all flex items-center justify-center">
+                  Our Services
+                </Link>
+              </div>
+            </div>
+            <div className="hidden lg:block relative">
+              <img 
+                src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=600&fit=crop" 
+                alt="Professional team collaboration" 
+                className="rounded-lg shadow-2xl w-full h-auto object-cover"
+              />
+              <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-slate-900 rounded-lg opacity-10 blur-xl"></div>
             </div>
           </div>
         </div>
