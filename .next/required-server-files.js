@@ -1,9 +1,7 @@
 self.__SERVER_FILES_MANIFEST={
   "version": 1,
   "config": {
-    "env": {
-      "NEXT_PUBLIC_GEMINI_API_KEY": "AIzaSyA4kktmdZSLQ8__3-OL2uI9omYTyG-mpTo"
-    },
+    "env": {},
     "webpack": null,
     "typescript": {
       "ignoreBuildErrors": false

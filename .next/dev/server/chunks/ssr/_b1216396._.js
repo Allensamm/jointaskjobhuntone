@@ -29,77 +29,111 @@ const Home = ({ onBook = ()=>{} })=>{
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "max-w-3xl",
+                            className: "grid grid-cols-1 lg:grid-cols-2 gap-12 items-center",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "inline-block px-4 py-1.5 mb-6 text-xs font-semibold tracking-widest uppercase bg-slate-100 text-slate-600 rounded-full",
-                                    children: "Independent Headhunters • Talent Specialists • Top 1%"
-                                }, void 0, false, {
-                                    fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 19,
-                                    columnNumber: 13
-                                }, ("TURBOPACK compile-time value", void 0)),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                    className: "text-5xl md:text-7xl font-bold text-slate-900 leading-[1.1] mb-8",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "max-w-3xl",
                                     children: [
-                                        "Precision Talent Acquisition for the ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "text-slate-500",
-                                            children: "Global Economy."
+                                            className: "inline-block px-4 py-1.5 mb-6 text-xs font-semibold tracking-widest uppercase bg-slate-100 text-slate-600 rounded-full",
+                                            children: "Independent Headhunters • Talent Specialists • Top 1%"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 23,
-                                            columnNumber: 52
-                                        }, ("TURBOPACK compile-time value", void 0))
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 22,
-                                    columnNumber: 13
-                                }, ("TURBOPACK compile-time value", void 0)),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-xl text-slate-600 mb-10 leading-relaxed max-w-2xl",
-                                    children: "Jointask Independent is a premier US-based headhunting firm dedicated to sourcing high-impact leadership and specialists for startups, scale-ups, and established enterprises."
-                                }, void 0, false, {
-                                    fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 25,
-                                    columnNumber: 13
-                                }, ("TURBOPACK compile-time value", void 0)),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "flex flex-col sm:flex-row gap-4",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                            onClick: onBook,
-                                            className: "bg-slate-900 text-white px-8 py-4 rounded-sm font-medium hover:bg-slate-800 transition-all flex items-center justify-center",
+                                            lineNumber: 20,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                            className: "text-5xl md:text-7xl font-bold text-slate-900 leading-[1.1] mb-8",
                                             children: [
-                                                "Book a Talent Strategy Call ",
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
-                                                    className: "ml-2",
-                                                    size: 18
+                                                "Precision Talent Acquisition for the ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "text-slate-500",
+                                                    children: "Global Economy."
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/Home.tsx",
-                                                    lineNumber: 33,
-                                                    columnNumber: 45
+                                                    lineNumber: 24,
+                                                    columnNumber: 54
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/pages/Home.tsx",
+                                            lineNumber: 23,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "text-xl text-slate-600 mb-10 leading-relaxed max-w-2xl",
+                                            children: "Jointask Independent is a premier US-based headhunting firm dedicated to sourcing high-impact leadership and specialists for startups, scale-ups, and established enterprises."
+                                        }, void 0, false, {
+                                            fileName: "[project]/pages/Home.tsx",
+                                            lineNumber: 26,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "flex flex-col sm:flex-row gap-4",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    onClick: onBook,
+                                                    className: "bg-slate-900 text-white px-8 py-4 rounded-sm font-medium hover:bg-slate-800 transition-all flex items-center justify-center",
+                                                    children: [
+                                                        "Book a Talent Strategy Call ",
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
+                                                            className: "ml-2",
+                                                            size: 18
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/pages/Home.tsx",
+                                                            lineNumber: 34,
+                                                            columnNumber: 47
+                                                        }, ("TURBOPACK compile-time value", void 0))
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/pages/Home.tsx",
+                                                    lineNumber: 30,
+                                                    columnNumber: 17
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                    href: "/services",
+                                                    className: "border border-slate-200 text-slate-700 px-8 py-4 rounded-sm font-medium hover:bg-slate-50 transition-all flex items-center justify-center",
+                                                    children: "Our Services"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/pages/Home.tsx",
+                                                    lineNumber: 36,
+                                                    columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/pages/Home.tsx",
                                             lineNumber: 29,
                                             columnNumber: 15
-                                        }, ("TURBOPACK compile-time value", void 0)),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                            href: "/services",
-                                            className: "border border-slate-200 text-slate-700 px-8 py-4 rounded-sm font-medium hover:bg-slate-50 transition-all flex items-center justify-center",
-                                            children: "Our Services"
+                                        }, ("TURBOPACK compile-time value", void 0))
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/pages/Home.tsx",
+                                    lineNumber: 19,
+                                    columnNumber: 13
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "hidden lg:block relative",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                            src: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=600&fit=crop",
+                                            alt: "Professional team collaboration",
+                                            className: "rounded-lg shadow-2xl w-full h-auto object-cover"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 35,
+                                            lineNumber: 42,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "absolute -bottom-6 -left-6 w-32 h-32 bg-slate-900 rounded-lg opacity-10 blur-xl"
+                                        }, void 0, false, {
+                                            fileName: "[project]/pages/Home.tsx",
+                                            lineNumber: 47,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 28,
+                                    lineNumber: 41,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
@@ -117,7 +151,7 @@ const Home = ({ onBook = ()=>{} })=>{
                         className: "absolute top-0 right-0 -translate-y-1/2 translate-x-1/3 w-2/3 h-full bg-slate-50 -z-0 rounded-full opacity-50 blur-3xl"
                     }, void 0, false, {
                         fileName: "[project]/pages/Home.tsx",
-                        lineNumber: 42,
+                        lineNumber: 52,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
@@ -140,7 +174,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "98%"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 50,
+                                        lineNumber: 60,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -148,13 +182,13 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "Candidate Retainment"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 51,
+                                        lineNumber: 61,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/Home.tsx",
-                                lineNumber: 49,
+                                lineNumber: 59,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -164,7 +198,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "24 Days"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 54,
+                                        lineNumber: 64,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -172,13 +206,13 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "Avg. Time to Shortlist"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 55,
+                                        lineNumber: 65,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/Home.tsx",
-                                lineNumber: 53,
+                                lineNumber: 63,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -188,7 +222,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "Top 1%"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 58,
+                                        lineNumber: 68,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -196,13 +230,13 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "Talent Network"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 59,
+                                        lineNumber: 69,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/Home.tsx",
-                                lineNumber: 57,
+                                lineNumber: 67,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -212,7 +246,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "Global"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 62,
+                                        lineNumber: 72,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -220,29 +254,29 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "Sourcing Capability"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 63,
+                                        lineNumber: 73,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/Home.tsx",
-                                lineNumber: 61,
+                                lineNumber: 71,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/Home.tsx",
-                        lineNumber: 48,
+                        lineNumber: 58,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/pages/Home.tsx",
-                    lineNumber: 47,
+                    lineNumber: 57,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/pages/Home.tsx",
-                lineNumber: 46,
+                lineNumber: 56,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -258,7 +292,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                     children: "Strategic Talent Solutions"
                                 }, void 0, false, {
                                     fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 73,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -266,13 +300,13 @@ const Home = ({ onBook = ()=>{} })=>{
                                     children: "We don't just fill seats. We identify the catalyst individuals who drive revenue, innovation, and operational excellence."
                                 }, void 0, false, {
                                     fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 74,
+                                    lineNumber: 84,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/pages/Home.tsx",
-                            lineNumber: 72,
+                            lineNumber: 82,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -286,7 +320,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             size: 40
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 79,
+                                            lineNumber: 89,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -294,7 +328,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             children: "Executive Search"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 80,
+                                            lineNumber: 90,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -302,7 +336,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             children: "C-Suite and VP-level search focused on strategic alignment and long-term organizational impact."
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 81,
+                                            lineNumber: 91,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -315,19 +349,19 @@ const Home = ({ onBook = ()=>{} })=>{
                                                     className: "ml-1"
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/Home.tsx",
-                                                    lineNumber: 83,
+                                                    lineNumber: 93,
                                                     columnNumber: 28
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 82,
+                                            lineNumber: 92,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 78,
+                                    lineNumber: 88,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -338,7 +372,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             size: 40
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 87,
+                                            lineNumber: 97,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -346,7 +380,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             children: "Confidential Hiring"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 88,
+                                            lineNumber: 98,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -354,7 +388,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             children: "Discrete replacement or strategic new-headcount sourcing protected by strict NDA protocols."
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 89,
+                                            lineNumber: 99,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -367,19 +401,19 @@ const Home = ({ onBook = ()=>{} })=>{
                                                     className: "ml-1"
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/Home.tsx",
-                                                    lineNumber: 91,
+                                                    lineNumber: 101,
                                                     columnNumber: 28
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 90,
+                                            lineNumber: 100,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 86,
+                                    lineNumber: 96,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -390,7 +424,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             size: 40
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 95,
+                                            lineNumber: 105,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -398,7 +432,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             children: "Talent Mapping"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 96,
+                                            lineNumber: 106,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -406,7 +440,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                             children: "Deep market intelligence to understand the talent landscape before you make your first hire."
                                         }, void 0, false, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 97,
+                                            lineNumber: 107,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -419,36 +453,36 @@ const Home = ({ onBook = ()=>{} })=>{
                                                     className: "ml-1"
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/Home.tsx",
-                                                    lineNumber: 99,
+                                                    lineNumber: 109,
                                                     columnNumber: 28
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/pages/Home.tsx",
-                                            lineNumber: 98,
+                                            lineNumber: 108,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 94,
+                                    lineNumber: 104,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/pages/Home.tsx",
-                            lineNumber: 77,
+                            lineNumber: 87,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/pages/Home.tsx",
-                    lineNumber: 71,
+                    lineNumber: 81,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/pages/Home.tsx",
-                lineNumber: 70,
+                lineNumber: 80,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -466,7 +500,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                         children: "Why Jointask Independent?"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 111,
+                                        lineNumber: 121,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -481,12 +515,12 @@ const Home = ({ onBook = ()=>{} })=>{
                                                             size: 24
                                                         }, void 0, false, {
                                                             fileName: "[project]/pages/Home.tsx",
-                                                            lineNumber: 114,
+                                                            lineNumber: 124,
                                                             columnNumber: 61
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/pages/Home.tsx",
-                                                        lineNumber: 114,
+                                                        lineNumber: 124,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -496,7 +530,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                                                 children: "Independent & Agile"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/pages/Home.tsx",
-                                                                lineNumber: 116,
+                                                                lineNumber: 126,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -504,19 +538,19 @@ const Home = ({ onBook = ()=>{} })=>{
                                                                 children: "Free from the bureaucracy of major global conglomerates, we move faster and offer personalized, high-touch consultation."
                                                             }, void 0, false, {
                                                                 fileName: "[project]/pages/Home.tsx",
-                                                                lineNumber: 117,
+                                                                lineNumber: 127,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/pages/Home.tsx",
-                                                        lineNumber: 115,
+                                                        lineNumber: 125,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/pages/Home.tsx",
-                                                lineNumber: 113,
+                                                lineNumber: 123,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -528,12 +562,12 @@ const Home = ({ onBook = ()=>{} })=>{
                                                             size: 24
                                                         }, void 0, false, {
                                                             fileName: "[project]/pages/Home.tsx",
-                                                            lineNumber: 121,
+                                                            lineNumber: 131,
                                                             columnNumber: 61
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/pages/Home.tsx",
-                                                        lineNumber: 121,
+                                                        lineNumber: 131,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -543,7 +577,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                                                 children: "Domestic Hub, Global Reach"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/pages/Home.tsx",
-                                                                lineNumber: 123,
+                                                                lineNumber: 133,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -551,19 +585,19 @@ const Home = ({ onBook = ()=>{} })=>{
                                                                 children: "US-based expertise that understands the American market's nuances, while maintaining a sourcing network that spans EMEA and APAC."
                                                             }, void 0, false, {
                                                                 fileName: "[project]/pages/Home.tsx",
-                                                                lineNumber: 124,
+                                                                lineNumber: 134,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/pages/Home.tsx",
-                                                        lineNumber: 122,
+                                                        lineNumber: 132,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/pages/Home.tsx",
-                                                lineNumber: 120,
+                                                lineNumber: 130,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -575,12 +609,12 @@ const Home = ({ onBook = ()=>{} })=>{
                                                             size: 24
                                                         }, void 0, false, {
                                                             fileName: "[project]/pages/Home.tsx",
-                                                            lineNumber: 128,
+                                                            lineNumber: 138,
                                                             columnNumber: 61
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     }, void 0, false, {
                                                         fileName: "[project]/pages/Home.tsx",
-                                                        lineNumber: 128,
+                                                        lineNumber: 138,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -590,7 +624,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                                                 children: "Success-Driven Partnership"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/pages/Home.tsx",
-                                                                lineNumber: 130,
+                                                                lineNumber: 140,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0)),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -598,31 +632,31 @@ const Home = ({ onBook = ()=>{} })=>{
                                                                 children: "We don't transactionalize hiring. We build relationships with our clients to serve as an extension of their leadership team."
                                                             }, void 0, false, {
                                                                 fileName: "[project]/pages/Home.tsx",
-                                                                lineNumber: 131,
+                                                                lineNumber: 141,
                                                                 columnNumber: 21
                                                             }, ("TURBOPACK compile-time value", void 0))
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/pages/Home.tsx",
-                                                        lineNumber: 129,
+                                                        lineNumber: 139,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/pages/Home.tsx",
-                                                lineNumber: 127,
+                                                lineNumber: 137,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 112,
+                                        lineNumber: 122,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/Home.tsx",
-                                lineNumber: 110,
+                                lineNumber: 120,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -634,7 +668,7 @@ const Home = ({ onBook = ()=>{} })=>{
                                         className: "rounded shadow-xl"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 137,
+                                        lineNumber: 147,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
@@ -643,29 +677,29 @@ const Home = ({ onBook = ()=>{} })=>{
                                         className: "rounded shadow-xl mt-12"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/Home.tsx",
-                                        lineNumber: 138,
+                                        lineNumber: 148,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/Home.tsx",
-                                lineNumber: 136,
+                                lineNumber: 146,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/Home.tsx",
-                        lineNumber: 109,
+                        lineNumber: 119,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/pages/Home.tsx",
-                    lineNumber: 108,
+                    lineNumber: 118,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/pages/Home.tsx",
-                lineNumber: 107,
+                lineNumber: 117,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -678,7 +712,7 @@ const Home = ({ onBook = ()=>{} })=>{
                             children: "Ready to secure your next high-impact hire?"
                         }, void 0, false, {
                             fileName: "[project]/pages/Home.tsx",
-                            lineNumber: 147,
+                            lineNumber: 157,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -686,7 +720,7 @@ const Home = ({ onBook = ()=>{} })=>{
                             children: "Schedule a confidential talent strategy session with our lead consultants today. No sales pitch—just strategic market insights."
                         }, void 0, false, {
                             fileName: "[project]/pages/Home.tsx",
-                            lineNumber: 148,
+                            lineNumber: 158,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -698,24 +732,24 @@ const Home = ({ onBook = ()=>{} })=>{
                                     className: "ml-3"
                                 }, void 0, false, {
                                     fileName: "[project]/pages/Home.tsx",
-                                    lineNumber: 155,
+                                    lineNumber: 165,
                                     columnNumber: 35
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/pages/Home.tsx",
-                            lineNumber: 151,
+                            lineNumber: 161,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/pages/Home.tsx",
-                    lineNumber: 146,
+                    lineNumber: 156,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/pages/Home.tsx",
-                lineNumber: 145,
+                lineNumber: 155,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]

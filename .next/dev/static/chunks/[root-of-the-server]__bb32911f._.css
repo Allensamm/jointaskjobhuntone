@@ -123,6 +123,7 @@
     --animate-ping: ping 1s cubic-bezier(0, 0, .2, 1) infinite;
     --animate-bounce: bounce 1s infinite;
     --blur-sm: 8px;
+    --blur-xl: 24px;
     --blur-3xl: 64px;
     --default-transition-duration: .15s;
     --default-transition-timing-function: cubic-bezier(.4, 0, .2, 1);
@@ -449,8 +450,16 @@
     right: calc(var(--spacing) * 2);
   }
 
+  .-bottom-6 {
+    bottom: calc(var(--spacing) * -6);
+  }
+
   .bottom-0 {
     bottom: calc(var(--spacing) * 0);
+  }
+
+  .-left-6 {
+    left: calc(var(--spacing) * -6);
   }
 
   .left-1\/2 {
@@ -601,6 +610,14 @@
     height: calc(var(--spacing) * 20);
   }
 
+  .h-32 {
+    height: calc(var(--spacing) * 32);
+  }
+
+  .h-auto {
+    height: auto;
+  }
+
   .h-full {
     height: 100%;
   }
@@ -627,6 +644,10 @@
 
   .w-16 {
     width: calc(var(--spacing) * 16);
+  }
+
+  .w-32 {
+    width: calc(var(--spacing) * 32);
   }
 
   .w-full {
@@ -987,6 +1008,10 @@
     }
   }
 
+  .object-cover {
+    object-fit: cover;
+  }
+
   .p-2 {
     padding: calc(var(--spacing) * 2);
   }
@@ -1328,6 +1353,11 @@
 
   .blur-3xl {
     --tw-blur: blur(var(--blur-3xl));
+    filter: var(--tw-blur, ) var(--tw-brightness, ) var(--tw-contrast, ) var(--tw-grayscale, ) var(--tw-hue-rotate, ) var(--tw-invert, ) var(--tw-saturate, ) var(--tw-sepia, ) var(--tw-drop-shadow, );
+  }
+
+  .blur-xl {
+    --tw-blur: blur(var(--blur-xl));
     filter: var(--tw-blur, ) var(--tw-brightness, ) var(--tw-contrast, ) var(--tw-grayscale, ) var(--tw-hue-rotate, ) var(--tw-invert, ) var(--tw-saturate, ) var(--tw-sepia, ) var(--tw-drop-shadow, );
   }
 
